@@ -4,6 +4,7 @@ pillow~=10.3.0
 transformers~=4.46.3
 requests~=2.32.3
 pandas~=2.2.2
+pytest~=8.3.5
 matplotlib~=3.9.0
 seaborn~=0.13.2
 scipy~=1.13.1
